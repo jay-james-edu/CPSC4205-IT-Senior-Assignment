@@ -2,4 +2,4 @@
 Assignment for IT Senior Capstone Class
 
 Name: James Jay
-Course Name/Number: IT Senior Capstone Section V01 Spring Semester 2026 CO / CPSC 4205
+\nCourse Name/Number: IT Senior Capstone Section V01 Spring Semester 2026 CO / CPSC 4205
