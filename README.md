@@ -1,5 +1,4 @@
 # CPSC4205-IT-Senior-Assignment
-Assignment for IT Senior Capstone Class/ CPSC4205
 
 Name: James Jay
 
